@@ -1,0 +1,7 @@
+encoder_checkpoints/colbertv2.0/
+encoder_checkpoints/msmarco.psg.l2/
+encoder_checkpoints/*.tar.gz
+encoder_checkpoints/*.zip
+
+data/MSMARCO/
+data/Vaswani/
