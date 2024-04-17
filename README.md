@@ -48,3 +48,7 @@ wget https://ir.dcs.gla.ac.uk/resources/test_collections/npl/npl.tar.gz
 tar -xvf npl.tar.gz
 rm npl.tar.gz
 ```
+
+## ColBERT index
+Vaswani -171MB  
+MS MARCO - 163GB
