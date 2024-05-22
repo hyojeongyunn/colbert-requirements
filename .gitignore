@@ -4,6 +4,11 @@ encoder_checkpoints/*.tar.gz
 encoder_checkpoints/*.zip
 
 data/MSMARCO/
+data/MSMARCO_splited/
+data/MSMARCO_51to58/
+data/MSMARCO_51to52/
 data/Vaswani/
+
+query_embedding/
 
 index/
